@@ -1,0 +1,24 @@
+The company name is 'Flowers R Us'
+
+This is a version 1.0.0 which is currently not available for the purchasing function.
+
+The company has 4 products. 
+
+Product A
+$2.00
+
+Product B
+$3.00
+
+Product C
+$4.00
+
+Product D
+$5.00
+
+✻ Address : 123 Blossom Street, Gardenia City, FL 54321
+✻ Phone : (555) 123-4567
+✻ Email : info@flowersrus.com
+✻ Website : www.flowersrus.com
+✻ Facebook : www.facebook.com/flowersrus
+✻ Instagram : www.instagram.com/flowersrus
