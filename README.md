@@ -28,4 +28,6 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-This is a version 1.0.0 which is currently not available for the purchasing function.
+This website is a commercial platform layout featuring an embedded chatbot.
+
+Version 1.0.0 is currently unavailable for the purchasing function.
