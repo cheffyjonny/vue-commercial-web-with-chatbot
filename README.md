@@ -1,33 +1,22 @@
-# vue-commercial-web
+# Introduction
 
-## Project setup
+Welcome to Flowers R Us. This is a static site generation project. Chatbot is not currently available as the subscription of cloud platform is expired..
 
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+# Structure
 
 ```
-npm run serve
+App
+├── CustomNav
+└── router-view
+    ├── HomeView
+    │   ├── Hero
+    │   └── Feature
+    ├── ProductsView
+    │   └── Lists
+    └── ContactView
+        └── Contacts
 ```
 
-### Compiles and minifies for production
+# Set up instruction
 
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-This website is a commercial platform layout featuring an embedded chatbot.
-
-Version 1.0.0 is currently unavailable for the purchasing function.
+To install the package and run the project: `npm install && npm run dev` <br>
